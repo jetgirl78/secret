@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: Location Scouting
 author: chloe
@@ -24,4 +24,3 @@ _Drive-by shooting. Holding up traffic! Accidentally of course. Maggie prefers t
 
 ![IMG_6310.JPG]({{site.baseurl}}/img/IMG_6310.JPG)
 _Potential carpark_
-
