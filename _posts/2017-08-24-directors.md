@@ -2,7 +2,7 @@
 layout: post
 title: 'Director’s Diary #1'
 subtitle: Location Scouting
-date: 2016-05-20T21:11:27.000Z
+date: {}
 author: chloe
 published: true
 ---
@@ -26,5 +26,3 @@ _Drive-by shooting. Holding up traffic! Accidentally of course. Maggie prefers t
 
 ![IMG_6310.JPG]({{site.baseurl}}/img/IMG_6310.JPG)
 _Potential carpark_
-
-
