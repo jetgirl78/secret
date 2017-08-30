@@ -153,6 +153,20 @@ header .navbar-default .navbar-nav li a:hover {
   padding-left: 40px;
   width: 100%;
 }
+
+#intro .post h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#intro .post p {
+  color: #7B7B7B;
+  padding-top: 20px;
+}
+#intro .post img {
+  padding-left: 40px;
+}
+
 #intro .section-title {
   margin-bottom: 0px;
 }
